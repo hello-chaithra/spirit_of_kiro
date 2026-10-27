@@ -11,9 +11,7 @@
  
 Kiro is an AI-powered, agentic software engineering platform and IDE working towards Spec-Driven Development (SDD) involving requirements, architecture designs, and working code. Lots to learn and this space (along with my gist) will be my commonplace book for the upcoming hackathon.
  
-## Specs (pretty important) 
- 
-One spec makes a small folder of Markdown under `.kiro/specs/`.
+## Specs (pretty important)
  
 | File | Question it answers |
 |:--|:--|
@@ -21,7 +19,7 @@ One spec makes a small folder of Markdown under `.kiro/specs/`.
 | `design.md` | **How** will we build it? Architecture, sequence diagrams, strategy |
 | `tasks.md` | **In what steps?** Discrete, trackable implementation tasks |
  
-For defects there is a variant, the **bugfix spec**. The analysis lands in `bugfix.md` instead of `requirements.md`.
+One spec makes a small folder of Markdown under `.kiro/specs/`. For defects there is a variant, the **bugfix spec**. The analysis lands in `bugfix.md` instead of `requirements.md`.
  
 ## 🎃 Kiroween theme categories
  
@@ -60,7 +58,6 @@ For defects there is a variant, the **bugfix spec**. The analysis lands in `bugf
 | **Nov 5 – Nov 12** | Write the spec and steering files |
 | **Nov 13 – Nov 30** | Build the core features, then polish the UI |
 | **Dec 1 – Dec 3** | Record the demo video, write the README, deploy, and submit |
-| **Dec 4** | Submit early rather than at the deadline (the hackathon ends Dec 5) |
  
 ## 📎 Extras
 
